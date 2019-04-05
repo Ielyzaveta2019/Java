@@ -1,5 +1,5 @@
 package com.class15;
 
-public class Test {
+public class Test23 {
 
 }
