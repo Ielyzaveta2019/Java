@@ -15,7 +15,7 @@ public class Application {
 	   System.out.println(operations.mult(9, 4));
 	   
 	   Application app = new Application();
-	   System.out.println(app.example6('1'));
+	   System.out.println(app.example6('a'));
 		
 		
 		
@@ -44,7 +44,7 @@ public class Application {
     
     char example6(char name) {
         System.out.println("with return value and Parameter");
-        //name =1 
+        //name =a 
         return name;
     }
 

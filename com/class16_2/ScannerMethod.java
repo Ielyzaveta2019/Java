@@ -7,7 +7,6 @@ public class ScannerMethod {
 	public static void main(String[] args) {
 		ScannerMethod obj = new ScannerMethod();
 		Scanner scan=new Scanner(System.in);
-		scan.
 		int sum=obj.sum1(1, 2);//one way with return keyword
 		int a =scan.nextInt();
 		int b=scan.nextInt();
